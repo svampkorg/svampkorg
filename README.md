@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @svampkorg
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter
-- 📫 How to reach me FLUTTER!
+- 👀 I’m a mobile app developer using mainly Flutter, Kotlin, Swift and also some Java.
+- 🌱 I’m currently learning Jetpack Compose and Lua
 
 <!---
 svampkorg/svampkorg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
